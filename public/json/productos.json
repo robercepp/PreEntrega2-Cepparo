@@ -1,0 +1,121 @@
+[{
+    "id": 0,
+    "tipo": "Libreta",
+    "categoria":"libretas",
+    "nombre": "Chicas Gamer",
+    "precio": 12.5,
+    "stock": 15,
+    "detalle":"Libreta de 80 hojas, tamaño A4 con motivos de Chicas Gamer, hoja a cuadros o a rayas.",
+    "imagen": "../resources/imagenes/chicasgamer.webp"
+},
+{
+    "id": 1,
+    "tipo": "Libreta",
+    "categoria":"libretas",
+    "nombre": "Six Fanarts",
+    "precio": 10.5,
+    "stock": 15,
+    "detalle":"Libreta de 80 hojas, tamaño A4 con motivos de Six Fanarsts, hoja a cuadros o a rayas.",
+    "imagen": "../resources/imagenes/sixfanarts.webp"
+},
+{
+    "id": 2,
+    "tipo": "Libreta",
+    "categoria":"libretas",
+    "nombre": "Lulu Martins",
+    "precio": 11.0,
+    "stock": 6,
+    "detalle":"Libreta de 80 hojas, tamaño A4 con motivos de Lulu Martins, hoja a cuadros o a rayas.",
+    "imagen": "../resources/imagenes/lulumartins.webp"
+},
+{
+    "id": 3,
+    "tipo": "libreta",
+    "categoria":"libretas",
+    "nombre": "Christine Hug",
+    "precio": 12.0,
+    "stock": 8,
+    "detalle":"Libreta de 80 hojas, tamaño A4 con motivos de Christine Hug, hoja a cuadros o a rayas.",
+    "imagen": "../resources/imagenes/christinehug.webp"
+},
+{
+    "id": 4,
+    "tipo": "Sticker",
+    "categoria":"stickers",
+    "nombre": "Sirenas",
+    "precio": 3.50,
+    "stock": 6,
+    "detalle":"Selección de 20 stickers con motivos de sirenas.",
+    "imagen": "../resources/imagenes/sirenas.webp"
+},
+{
+    "id": 5,
+    "tipo": "Sticker",
+    "categoria":"stickers",
+    "nombre": "Chicas",
+    "precio": 3.0,
+    "stock": 7,
+    "detalle":"Selección de 20 stickers con motivos de chicas y moda.",
+    "imagen": "../resources/imagenes/chicas.webp"
+},
+{
+    "id": 6,
+    "tipo": "Sticker",
+    "categoria":"stickers",
+    "nombre": "Halloween",
+    "precio": 2.75,
+    "stock": 10,
+    "detalle":"Selección de 20 stickers con motivos de halloween.",
+    "imagen": "../resources/imagenes/halloween.webp"
+},
+{
+    "id": 7,
+    "tipo": "Sticker",
+    "categoria":"stickers",
+    "nombre": "Animales",
+    "precio": 3.5,
+    "stock": 10,
+    "detalle":"Selección de 20 stickers con motivos de animales.",
+    "imagen": "../resources/imagenes/animales.webp"
+},
+{
+    "id": 8,
+    "tipo": "Poster",
+    "categoria":"posters",
+    "nombre": "Una Noche de Verano",
+    "precio": 5.75,
+    "stock": 6,
+    "detalle":"Poster tamaño A3+ impreso en papel ilustración de Una noche de Verano.",
+    "imagen": "../resources/imagenes/nocheverano.webp"
+},
+{
+    "id": 9,
+    "tipo": "Poster",
+    "categoria":"posters",
+    "nombre": "Amantes Mariposa",
+    "precio": 6.0,
+    "stock": 8,
+    "detalle":"Poster tamaño A3+ impreso en papel ilustración de Amantes mariposa.",
+    "imagen": "../resources/imagenes/amantesmariposa.webp"
+},
+{
+    "id": 10,
+    "tipo": "Poster",
+    "categoria":"posters",
+    "nombre": "San Valentín espacial",
+    "precio": 5.0,
+    "stock": 10,
+    "detalle":"Poster tamaño A3+ impreso en papel ilustración de un San Valentín Espacial.",
+    "imagen": "../resources/imagenes/sanvalentin.webp"
+},
+{
+    "id": 11,
+    "tipo": "Poster",
+    "categoria":"posters",
+    "nombre": "Gatos",
+    "precio": 5.50,
+    "stock": 7,
+    "detalle":"Poster tamaño A3+ impreso en papel ilustración con Gatitos.",
+    "imagen": "../resources/imagenes/gatos.webp"
+}
+]
